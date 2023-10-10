@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Dog House
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Score and Time
+  - Water
+  - UI
+  - Enemies
+  - DogHouse
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3941550117
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Health Bar
+    uniqueID: 835074421
+    locked: 0
+  - name: Health
+    uniqueID: 2625188907
+    locked: 0
+  - name: Foreground
+    uniqueID: 4138212517
+    locked: 0
+  - name: Pause
+    uniqueID: 508720443
+    locked: 0

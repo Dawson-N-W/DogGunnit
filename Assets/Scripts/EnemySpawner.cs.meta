@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f3da12c65d37745aea3bc633f6d6c8f4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - roundText: {instanceID: 0}
+  - enter: {instanceID: 0}
+  - enemyPrefab: {instanceID: 0}
+  - bigEnemyPrefab: {instanceID: 0}
+  - MovePowerUp: {fileID: 6358145423165671979, guid: 44c91cb5cf9c546b9a9b7200b7bbb2e5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
